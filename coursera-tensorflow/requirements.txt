@@ -1,0 +1,10 @@
+tensorflow==2.0.0b1
+numpy
+matplotlib
+numpy
+sklearn
+jupyter
+pydot
+graphviz
+ipython
+virtualenv
